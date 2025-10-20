@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jhesaya-giovani-andromeda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/jhesayaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://muslimdailylife.org/"><img src="https://img.shields.io/badge/Muslim_Daily_Life-1a936f?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="https://muslimdailylife.org/"><img src="https://img.shields.io/badge/Muslim_Daily_Life-1a936f?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
 
 ---
@@ -30,8 +30,8 @@ Saya adalah seorang pengembang software bersemangat dari Indonesia yang mencinta
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhesayaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhesaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesaya&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@ Saya adalah seorang pengembang software bersemangat dari Indonesia yang mencinta
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesayaa&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesaya&theme=tokyo-night" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -78,7 +78,7 @@ Saya adalah seorang pengembang software bersemangat dari Indonesia yang mencinta
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhesayaa&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jhesaya&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 <div align="center">
