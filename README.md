@@ -4,10 +4,6 @@
   Halo, Saya <b>Jhesaya Giovani Andromeda</b> 👋
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" alt="animated line" />
-</p>
-
 <!-- Centered Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E9598&width=480&center=true&vCenter=true&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
@@ -33,6 +29,9 @@
 
 
 ---
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=jhesayaa&data=followers,repositories,stars,commits&theme=radical" />
+</p>
 
 ## 🚀 Tentang Saya
 > Seorang pengembang software bersemangat dari **Indonesia 🇮🇩** yang mencintai kode bersih, antarmuka indah, dan solusi berdampak.
