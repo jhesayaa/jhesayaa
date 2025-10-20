@@ -62,7 +62,7 @@
 ### 🛳️ DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
-
+   <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" alt="XAMPP" title="XAMPP" />
 </div>
 
 
