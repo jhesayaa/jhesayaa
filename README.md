@@ -29,11 +29,11 @@
 
 
 ---
+## 🚀 Tentang Saya
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=jhesayaa&data=followers,repositories,stars,commits&theme=radical" />
 </p>
 
-## 🚀 Tentang Saya
 > Seorang pengembang software bersemangat dari **Indonesia 🇮🇩** yang mencintai kode bersih, antarmuka indah, dan solusi berdampak.
 
 - 🔭 Saat ini saya sedang mengerjakan **[PADELFY](#)**
