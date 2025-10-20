@@ -42,7 +42,7 @@
 
 ## 🛠️ Bahasa & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css,tailwind,figma,git,supabase,postgres,express,python,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=larvel,react,nodejs,typescript,javascript,html,css,tailwind,figma,git,supabase,postgres,express,python,docker&perline=7" />
 </div>
 
 ---
