@@ -6,7 +6,7 @@
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" alt="animated line" />
+  <img src="https://i.imgur.com/PG3Yt0N.gif" width="100%" height="3" alt="animated divider" />
 </p>
 
 <!-- Centered Typing SVG (with neon glow) -->
