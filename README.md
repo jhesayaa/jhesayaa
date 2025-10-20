@@ -1,9 +1,10 @@
 <!-- Header -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" alt="animated line" />
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" alt="animated line" />
 </p>
->
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif">
   Halo, Saya <b>Jhesaya Giovani Andromeda</b> 👋
 </h1>
 
