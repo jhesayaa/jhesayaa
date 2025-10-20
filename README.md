@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jhesaya-giovani-andromeda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/jhesayaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://muslimdailylife.org/"><img src="https://img.shields.io/badge/Muslim_Daily_Life-1a936f?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://muslimdailylife.org/"><img src="https://img.shields.io/badge/Muslim_Daily_Life-1a936f?style=for-the-badge&logo=php&logoColor=white"></a>
 </p>
 
 ---
