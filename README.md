@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" alt="animated line" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="10" alt="animated line" />
 </p>
 
 <h1 align="center">
