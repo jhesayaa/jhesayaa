@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" width="35px">
-  Halo, Saya <b>Jhesaya Giovani Andromeda</b> 👋
+  Hello, I'm <b>Jhesaya Giovani Andromeda</b> 👋
 </h1>
 
 <!-- Animated Divider -->
@@ -34,17 +34,17 @@
 
 ---
 
-## 🚀 Tentang Saya
-> Seorang pengembang software bersemangat dari **Indonesia 🇮🇩** yang mencintai kode bersih, antarmuka indah, dan solusi berdampak.
+## 🚀 About Me
+> A passionate software developer from **Indonesia 🇮🇩** who loves clean code, beautiful interfaces, and impactful solutions.
 
-- 🔭 Saat ini saya sedang mengerjakan **[PADELFY](#)**
-- 🌱 Saya mempelajari **React, TypeScript, Node.js, dan Machine Learning**
-- 💬 Tanya saya tentang **React, Node.js, PHP, Laravel**
-- 📫 Email saya di: **jessa.andromeda@gmail.com**
+- 🔭 Currently working on **[PADELFY](#)**
+- 🌱 Learning **React, TypeScript, Node.js, and Machine Learning**
+- 💬 Ask me about **React, Node.js, PHP, Laravel**
+- 📫 Reach me at **jessa.andromeda@gmail.com**
 
 ---
 
-## 🛠️ Bahasa & Tools
+## 🛠️ Languages & Tools
 
 ### 💻 Frontend
 <div align="center">
@@ -70,14 +70,14 @@
 
 ---
 
-### ✨ Animated Stack Highlight
+### ✨ Favorite Stack
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=2E9598&width=600&center=true&vCenter=true&lines=⚡+React+%2B+Laravel+%2B+TailwindCSS+%2B+Supabase+⚡" />
 </div>
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhesayaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&langs_count=8&theme=tokyonight" />
@@ -89,12 +89,12 @@
 
 ---
 
-## 🌟 Proyek Unggulan
+## 🌟 Featured Project
 <div align="center">
   <a href="https://muslimdailylife.org/">
     <img src="https://img.shields.io/badge/Muslim_Daily_Life-Islamic_Web_App-1a936f?style=for-the-badge&logo=php" alt="Muslim Daily Life Project" />
   </a>
-  <p><i>Muslim Daily Life adalah aplikasi web untuk membantu Muslim menjalani kehidupan sehari-hari dengan fitur islami yang bermanfaat.</i></p>
+  <p><i>Muslim Daily Life is a web app designed to help Muslims in their daily routines with practical and meaningful Islamic features.</i></p>
 </div>
 
 ---
@@ -106,7 +106,7 @@
 
 ---
 
-## 💡 Fun Quote
+## 💡 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
