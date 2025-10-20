@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E9598&width=480&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhesayaa&style=flat-square&color=2E9598" alt="Profile views" />
+</p>
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jhesaya-giovani-andromeda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -76,8 +82,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhesayaa&style=flat-square&color=2E9598" alt="Profile views" />
-  <br />
   <a href="https://github.com/jhesayaa">
     <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jhesaya%20Giovani%20Andromeda-2E9598?style=for-the-badge" />
   </a>
