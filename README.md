@@ -60,7 +60,17 @@
 ### 🛳️ DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
+  <br>
+  🧩 Laragon • phpMyAdmin • XAMPP • HeidiSQL
 </div>
+
+---
+
+### 🎨 Favorite Stack
+<div align="center">
+  <b>React</b> + <b>Laravel</b> + <b>Tailwind CSS</b> + <b>Supabase</b>
+</div>
+
 
 
 
