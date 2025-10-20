@@ -6,7 +6,7 @@
 
 <!-- Centered Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E9598&width=480&center=true&vCenter=true&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9598&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things&repeat=true" />
 </div>
 
 <!-- Profile Views -->
