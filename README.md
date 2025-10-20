@@ -1,8 +1,12 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" width="35px">
   Halo, Saya <b>Jhesaya Giovani Andromeda</b> 👋
 </h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" alt="animated line" />
+</p>
 
 <!-- Centered Typing SVG -->
 <div align="center">
