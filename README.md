@@ -55,15 +55,15 @@
 ### 🧰 Database & Cloud
 <div align="center">
   <img src="https://skillicons.dev/icons?i=supabase,postgres&perline=7" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/PhpMyAdmin_logo.svg" alt="phpMyAdmin" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/HeidiSQL_logo.png" alt="HeidiSQL" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="phpMyAdmin" title="phpMyAdmin" />
+  <img height="48" src="https://cdn.simpleicons.org/heidisql/4479A1" alt="HeidiSQL" title="HeidiSQL" />
 </div>
 
 ### 🛳️ DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/XAMPP_logo.svg" alt="XAMPP" />
-  <img height="48" src="https://raw.githubusercontent.com/laragon/laragon/master/images/laragon-logo.ico" alt="Laragon" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" alt="XAMPP" title="XAMPP" />
+  <img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" />
 </div>
 
 ---
