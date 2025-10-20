@@ -69,15 +69,6 @@
 
 ---
 
-### 🎨 Favorite Stack
-<div align="center">
-  <b>React</b> + <b>Laravel</b> + <b>Tailwind CSS</b> + <b>Supabase</b>
-</div>
-
-
-
-
-
 ---
 
 ## 📊 Statistik GitHub
