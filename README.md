@@ -55,14 +55,12 @@
 ### 🧰 Database & Cloud
 <div align="center">
   <img src="https://skillicons.dev/icons?i=supabase,postgres&perline=7" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="phpMyAdmin" title="phpMyAdmin" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/10/HeidiSQL_logo_image.png" alt="HeidiSQL" title="HeidiSQL" />
+<img height="48" src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" />
 </div>
 
 ### 🛳️ DevOps & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7b/XAMPP_logo.svg" alt="XAMPP" title="XAMPP" />
   <img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" />
 </div>
 
