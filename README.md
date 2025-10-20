@@ -49,7 +49,7 @@
 
 ### ⚙️ Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,javascript,nodejs,express,python&perline=7" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,javascript,typescript,nodejs,express,python&perline=7" />
 </div>
 
 ### 🧰 Database & Cloud
