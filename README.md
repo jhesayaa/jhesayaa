@@ -4,9 +4,10 @@
   Halo, Saya <b>Jhesaya Giovani Andromeda</b> 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E9598&width=480&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+<!-- Centered Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2E9598&width=480&center=true&vCenter=true&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 <!-- Profile Views -->
 <p align="center">
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/Muslim_Daily_Life-1A936F?style=for-the-badge&logo=php&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
