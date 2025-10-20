@@ -41,9 +41,27 @@
 ---
 
 ## 🛠️ Bahasa & Tools
+
+### 💻 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,typescript,javascript,html,css,tailwind,figma,git,supabase,postgres,express,python,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,figma&perline=7" />
 </div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python&perline=7" />
+</div>
+
+### 🧰 Database & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres&perline=7" />
+</div>
+
+### 🛳️ DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
+</div>
+
 
 
 ---
