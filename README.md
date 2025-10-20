@@ -1,12 +1,17 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif">
+  <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" width="35px">
   Halo, Saya <b>Jhesaya Giovani Andromeda</b> 👋
 </h1>
 
-<!-- Centered Typing SVG -->
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" alt="animated line" />
+</p>
+
+<!-- Centered Typing SVG (with neon glow) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9598&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9598&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&repeat=true" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views -->
@@ -27,13 +32,9 @@
   </a>
 </p>
 
-
 ---
-## 🚀 Tentang Saya
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=jhesayaa&data=followers,repositories,stars,commits&theme=radical" />
-</p>
 
+## 🚀 Tentang Saya
 > Seorang pengembang software bersemangat dari **Indonesia 🇮🇩** yang mencintai kode bersih, antarmuka indah, dan solusi berdampak.
 
 - 🔭 Saat ini saya sedang mengerjakan **[PADELFY](#)**
@@ -57,20 +58,22 @@
 
 ### 🧰 Database & Cloud
 <div align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres&perline=7" />
-<img height="48" src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" />
-</div>
-</div>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres&perline=7" />
+  <img height="48" src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" title="phpMyAdmin" />
 </div>
 
 ### 🛳️ DevOps & Tools
 <div align="center">
-<img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
-<img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" />
+  <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
+  <img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" />
 </div>
 
-
 ---
+
+### ✨ Animated Stack Highlight
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=2E9598&width=600&center=true&vCenter=true&lines=⚡+React+%2B+Laravel+%2B+TailwindCSS+%2B+Supabase+⚡" />
+</div>
 
 ---
 
@@ -105,7 +108,7 @@
 
 ## 💡 Fun Quote
 <div align="center">
-  <h4>📝 “Kode adalah puisi untuk komputer.”</h4>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
