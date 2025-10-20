@@ -56,7 +56,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=supabase,postgres&perline=7" />
 <img height="48" src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" />
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HeidiSQL_logo.png" alt="HeidiSQL" title="HeidiSQL" />
 </div>
 </div>
 </div>
@@ -65,7 +64,6 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=docker,git&perline=7" />
 <img height="48" src="https://cdn.simpleicons.org/laragon/0E83CD" alt="Laragon" title="Laragon" />
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/77/XAMPP_logo.svg" alt="XAMPP" title="XAMPP" />
 </div>
 
 
