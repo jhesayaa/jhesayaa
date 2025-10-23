@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://muslimdailylife.org/">
-    <img src="https://i.imgur.com/Z6J3sUQ.gif" alt="Header Banner" width="100%" />
-  </a>
-</p>
 
 <!-- Header -->
 <h1 align="center">
