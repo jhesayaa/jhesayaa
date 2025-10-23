@@ -1,8 +1,6 @@
 
 <!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9598&center=true&vCenter=true&width=600&lines=Hi!+I'm+Jhesaya+Giovani+Andromeda;Welcome+to+my+GitHub+Profile!+👋" />
-</div>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" width="35px"> Hello, I'm <b>Jhesaya Giovani Andromeda</b> 👋 </h1>
 
 
 <!-- Animated Divider -->
