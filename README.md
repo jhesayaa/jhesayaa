@@ -72,7 +72,7 @@
 
 ### ✨ Favorite Stack
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=2E9598&width=600&center=true&vCenter=true&lines=⚡+React+%2B+PHP+%2B+Laravel+%2B+TailwindCSS%2B⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=2E9598&width=600&center=true&vCenter=true&lines=⚡+React+%2B+PHP+%2B+Laravel+%2B+TailwindCSS%2B+⚡" />
 </div>
 
 ---
