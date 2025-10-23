@@ -117,3 +117,7 @@
     <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jhesaya%20Giovani%20Andromeda-2E9598?style=for-the-badge" />
   </a>
 </div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</div>
