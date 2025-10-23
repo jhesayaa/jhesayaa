@@ -47,7 +47,7 @@
 
 ### 💻 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,figma&perline=7" style="filter: drop-shadow(0px 0px 10px #2E9598);" />
 </div>
 
 ### ⚙️ Backend
