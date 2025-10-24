@@ -1,24 +1,17 @@
-
-<!-- Header -->
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" width="35px"> Hello, I'm <b>Jhesaya Giovani Andromeda</b> 👋 </h1>
 
-
-<!-- Animated Divider -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" alt="animated line" />
 </p>
 
-<!-- Centered Typing SVG (with neon glow) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9598&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&repeat=true" alt="Typing SVG" />
 </div>
 
-<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhesayaa&style=flat-square&color=2E9598" alt="Profile views" />
 </p>
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jhesaya-giovani-andromeda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
