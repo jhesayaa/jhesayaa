@@ -62,13 +62,6 @@
 
 ---
 
-### ✨ Favorite Stack
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=2E9598&width=600&center=true&vCenter=true&lines=⚡+React+%2B+PHP+%2B+Laravel+%2B+TailwindCSS%2B+⚡" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhesayaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
