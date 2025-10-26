@@ -82,15 +82,6 @@
   <p><i>Muslim Daily Life is a web app designed to help Muslims in their daily routines with practical and meaningful Islamic features.</i></p>
 </div>
 
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesayaa&theme=tokyo-night&radius=8" />
-</div>
-
----
-
 ## 💡 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
