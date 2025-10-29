@@ -24,8 +24,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 > A passionate software developer from **Indonesia 🇮🇩** who loves clean code, beautiful interfaces, and impactful solutions.
 
