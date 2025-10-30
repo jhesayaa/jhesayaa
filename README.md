@@ -1,3 +1,4 @@
+<!--SBOMBOMBOMBOM-->
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/readme-emojis/main/wave.gif" width="35px"> Hello, I'm <b>Jhesaya Giovani Andromeda</b> 👋 </h1>
 
 <p align="center">
