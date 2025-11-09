@@ -126,28 +126,20 @@ const jhesaya = {
 <br/>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-
 <br/>
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhesayaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=jhesayaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhesayaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesayaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=C9D1D9&area_color=6C63FF&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
-
 <br/>
-
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br/>
 
 ## 🏆 GitHub Trophies
