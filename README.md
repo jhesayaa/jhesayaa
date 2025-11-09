@@ -69,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Okiled&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Okiled&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhesayaa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhesayaa&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okiled&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -82,7 +82,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okiled&theme=github-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesayaa&theme=github-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area_color=6C63FF&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
