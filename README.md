@@ -140,13 +140,7 @@ const jhesaya = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jhesayaa&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesayaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=C9D1D9&area_color=6C63FF&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhesayaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=C9D1D9&area_color=6C63FF&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph"/>
 </div>
 
 <br/>
