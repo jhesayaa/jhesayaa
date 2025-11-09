@@ -6,7 +6,7 @@
 <br/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+Amazing+Web+Experiences;Passionate+About+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;" alt="Typing SVG" />
   
   <!-- Social Badges -->
   <p>
