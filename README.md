@@ -60,18 +60,6 @@ const jhesaya = {
 };
 ```
 
-<div align="center">
-  
-  🔭 **Currently Working On:** [PADELFY](https://github.com/jhesayaa) - Sports Venue Booking System
-  
-  🌱 **Learning:** React Advanced Patterns, TypeScript Deep Dive, ML Fundamentals
-  
-  💬 **Ask Me About:** React, Laravel, Full-Stack Development, UI/UX Design
-  
-  ⚡ **Fun Fact:** Coffee + Code = Magic ☕✨
-  
-</div>
-
 <br/>
 
 <!-- Animated Separator -->
