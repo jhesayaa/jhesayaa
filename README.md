@@ -182,13 +182,6 @@ const jhesaya = {
 <br/>
 
 ## 🌟 Featured Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
-</div>
-
-<br/>
-
 <div align="center">
 
 <table>
@@ -267,7 +260,11 @@ const jhesaya = {
 
 <br/>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<div align="center">
+  <a href="https://github.com/jhesayaa">
+    <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Jhesaya%20Giovani%20Andromeda-2E9598?style=for-the-badge" />
+  </a>
+</div>
 </div>
 
 <br/>
