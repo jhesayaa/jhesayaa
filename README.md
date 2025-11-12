@@ -135,7 +135,7 @@ const jhesaya = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhesayaa&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesayaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhesya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 <br/>
 <!-- Animated Separator -->
