@@ -36,34 +36,9 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
-
 <div align="center">
-  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" alt="Iron Man Coding">
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" alt="">
 </div>
-
-<br/>
-
-```typescript
-const jhesaya = {
-    location: "Semarang, Indonesia 🇮🇩",
-    code: ["TypeScript", "JavaScript", "PHP", "Python"],
-    technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS", "HTML5/CSS3"],
-        backend: ["Node.js", "Express", "Laravel", "PHP"],
-        databases: ["PostgreSQL", "Supabase", "MySQL"],
-        tools: ["Docker", "Git", "Figma", "Laragon"]
-    },
-    currentFocus: "Building PADELFY - Sports Booking Platform",
-    learning: ["Machine Learning", "Advanced React Patterns", "System Design"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
-
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
@@ -146,43 +121,6 @@ const jhesaya = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jhesayaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🌟 Featured Projects
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🕌 Muslim Daily Life</h3>
-      <div align="center">
-        <a href="https://muslimdailylife.org/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Website-1A936F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website" />
-        </a>
-        <br><br>
-        <p><strong>PHP, Laravel, MySQL</strong> - Islamic web app helping Muslims with daily routines, prayer times, and Quranic resources.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎾 PADELFY</h3>
-      <div align="center">
-        <a href="https://github.com/jhesayaa" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-        </a>
-        <br><br>
-        <p><strong>React, Node.js, PostgreSQL</strong> - Modern sports venue booking platform with real-time availability and payment integration.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br/>
